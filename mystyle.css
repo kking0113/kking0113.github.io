@@ -7,40 +7,44 @@ h1 {
 	color: #00008B;
 	font-family: Lucida Bright;
 	text-align: center;
-	font-size: 40 px;
-	margin-top: 30 px;
-	margin-bottom: 30 px;
+	font-size: 40px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 h2 {
 	color: #00008B;
 	font-family: Lucida Bright;
 	font-size: 30px;
-	margin-top: 25px;
-	margin-bottom: 25 px;
-	margin-left: 60 px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 100px;
 }
 	
 h3 {	
 	color: #6495ED;
 	font-family: Lucida Bright;
 	font-size: 25px;
-	margin-top: 25px;
-	margin-bottom: 25 px;
-	margin-left: 60 px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 100px;
 }
 
 p {
 	font-family: Lucida Bright;
-	font-size: 20 px;
-	margin-top: 25px;
-	margin-bottom: 25 px;
-	margin-left: 60 px;
+	font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 p1 {
 	font-family: Lucida Bright;
 	font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 100px;
 }
 
 img {
