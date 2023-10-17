@@ -1,0 +1,31 @@
+<style>
+body {
+	background-color: #F0F8FF;
+}
+
+h1 {
+	color: #00008B;
+	font-family: Lucida Bright;
+	text-align: center;
+}
+
+h2 {
+	color: #00008B;
+	font-family: Lucida Bright;
+}
+	
+h3 {	
+	color: #6495ED;
+	font-family: Lucida Bright;
+}
+
+p {
+	font-family: Lucida Bright;
+}
+
+img.animalpictures {
+	height: 100 px;
+	width: auto;
+} 
+
+</style>
