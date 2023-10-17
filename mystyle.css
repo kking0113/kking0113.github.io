@@ -24,7 +24,7 @@ p {
 }
 
 img.animalpictures {
-	height: 100 px;
+	height: 60 px;
 	width: auto;
 } 
 
@@ -37,7 +37,7 @@ div.polaroid {
 
 div.container {
 	text-align:center;
-	padding: 7px 15px;
+	padding: 7px 30px;
 }
 	
 	
