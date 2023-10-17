@@ -8,34 +8,34 @@ h1 {
 	font-family: Lucida Bright;
 	text-align: center;
 	font-size: 40 px;
-	margin-top: 300 px;
-	margin-bottom: 300 px;
+	margin-top: 30 px;
+	margin-bottom: 30 px;
 }
 
 h2 {
 	color: #00008B;
 	font-family: Lucida Bright;
 	font-size: 30px;
-	margin-top: 200px;
-	margin-bottom: 200 px;
-	margin-left: 100 px;
+	margin-top: 25px;
+	margin-bottom: 25 px;
+	margin-left: 60 px;
 }
 	
 h3 {	
 	color: #6495ED;
 	font-family: Lucida Bright;
 	font-size: 25px;
-	margin-top: 200px;
-	margin-bottom: 200 px;
-	margin-left: 100 px;
+	margin-top: 25px;
+	margin-bottom: 25 px;
+	margin-left: 60 px;
 }
 
 p {
 	font-family: Lucida Bright;
 	font-size: 20 px;
-	margin-top: 200px;
-	margin-bottom: 200 px;
-	margin-left: 100 px;
+	margin-top: 25px;
+	margin-bottom: 25 px;
+	margin-left: 60 px;
 }
 
 p1 {
@@ -43,11 +43,11 @@ p1 {
 	font-size: 30px;
 }
 
-img class.animalpictures {
-	margin-top: 300px;
-	margin-bottom: 300px;
-	margin-left: 700px;
-	margin-right: 700px;
+img class(.)animalpictures {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 	
 	
