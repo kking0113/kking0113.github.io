@@ -47,6 +47,35 @@ p1 {
 	margin-left: 100px;
 }
 
+p11 {
+	font-family: Lucida Bright;
+	font-size: 20 px;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50 px;
+	padding-left: 100 px;
+}
+
+p12 {
+	font-family: Lucida Bright;
+	font-size: 20 px;
+	margin-top: 200px;
+	margin-bottom: 200 px;
+	margin-left: 100 px;
+}
+
+p13 {
+	font-family: Lucida Bright;
+	font-size: 20 px;
+	margin-top: 200px;
+	margin-bottom: 200 px;
+	margin-left: 100 px;
+}
+
+ul {
+	list-style-type:square;
+}
+	
 img {
 	margin-top: 100px;
 	margin-bottom: 100px;
