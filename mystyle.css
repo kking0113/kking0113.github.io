@@ -3,6 +3,13 @@ body {
 	background-color: #F0F8FF;
 }
 
+body1 {
+	background-image: ('NZ.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
 h1 {
 	color: #00008B;
 	font-family: Lucida Bright;
