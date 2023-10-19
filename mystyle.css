@@ -1,7 +1,4 @@
 <style>
-body {
-	background-color: #F0F8FF;
-}
 
 h1 {
 	color: #00008B;
@@ -76,7 +73,8 @@ p13 {
 
 ul.bar {
 	list-style-type: none;
-	margin-left: 10;
+	margin-left: 10px;
+	margin-bottom: 20px
 	padding: 0;
 	background-color: #DDA0DD;
 }
