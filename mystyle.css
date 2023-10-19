@@ -7,7 +7,7 @@ h1 {
 	color: #00008B;
 	font-family: Lucida Bright;
 	text-align: center;
-	font-size: 40px;
+	font-size: 50px;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
@@ -61,7 +61,6 @@ p12 {
 	font-size: 20px;
 	margin-top: 200px;
 	margin-bottom: 200px;
-	margin-left: 100px;
 }
 
 p13 {
@@ -69,10 +68,25 @@ p13 {
 	font-size: 20px;
 	margin-top: 200px;
 	margin-bottom: 200px;
-	margin-left: 100px;
 }
 
-ul {
+ul.bar {
+	list-style-type: none;
+	margin-left: 0;
+	padding: 0;
+	background-color: #00008B;
+}
+	
+.bar li {
+	display: inline;
+	color: #F0F8FF;
+	font-family: Lucida Bright;
+	font-size: 20px;
+	padding: 15px 25px;
+	margin-left: 50px
+}
+	
+ul.res {
 	list-style-type:square;
 }
 	
