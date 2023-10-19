@@ -95,6 +95,10 @@ ul.res {
 	margin-bottom: 100px;
 	margin-left: 200px;
 	margin-right: 200px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 	
 a:link {
