@@ -72,7 +72,7 @@ p13 {
 
 ul.bar {
 	list-style-type: none;
-	margin-left: 0;
+	margin-left: 10;
 	padding: 0;
 	background-color: #DDA0DD;
 }
@@ -91,13 +91,9 @@ ul.res {
 }
 	
 .animalpictures {
-	margin-top: 100px;
-	margin-bottom: 100px;
-	margin-left: 200px;
-	margin-right: 200px;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	padding-left: 25px;
+	padding-left: 75px;
 	padding-right: 25px;
 }
 	
