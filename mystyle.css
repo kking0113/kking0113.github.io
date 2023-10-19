@@ -74,7 +74,7 @@ ul.bar {
 	list-style-type: none;
 	margin-left: 0;
 	padding: 0;
-	background-color: #00008B;
+	background-color: #DDA0DD;
 }
 	
 .bar li {
@@ -90,15 +90,21 @@ ul.res {
 	list-style-type:square;
 }
 	
-(.)animalpictures {
+.animalpictures {
 	margin-top: 100px;
 	margin-bottom: 100px;
 	margin-left: 200px;
 	margin-right: 200px;
 }
 	
-	
-	
-	
+a:link {
+	color: #483D8B;
+}
+a:visited {
+	color: #483D8B;
+}
+a:hover {
+	color: #8B0000;
+}
 	
 </style>
