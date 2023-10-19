@@ -73,8 +73,9 @@ p13 {
 
 ul.bar {
 	list-style-type: none;
-	margin-left: 10px;
-	margin-bottom: 20px
+	margin-left: 25px;
+	margin-top: 20px;
+	margin-bottom: 40px
 	padding: 0;
 	background-color: #DDA0DD;
 }
