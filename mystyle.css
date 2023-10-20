@@ -1,116 +1,117 @@
+
 body {
-	background-color: #F0F8FF;
+	background-color: #F0F8FF; 
 }
 
 h1 {
-	color: #00008B;
-	font-family: Lucida Bright;
-	text-align: center;
-	font-size: 50px;
-	font-style: italic;
-	font-weight: 800;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	color: #00008B; /* text color is DarkBlue */
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	text-align: center; /* text is center aligned */
+	font-size: 50px; /* font size is 50px */
+	font-style: italic; /* font style is in italics */
+	font-weight: 800; /* font weight is heavier/bolder than regular */
+	margin-top: 50px; /* margin at top of the element is 50px */
+	margin-bottom: 50px; /* margin at bottom of the element is 50px */
 }
 
 h2 {
-	color: #00008B;
-	font-family: Lucida Bright;
-	font-size: 30px;
-	font-style: italic;
-	font-weight: 800;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 100px;
+	color: #00008B; /* text color is DarkBlue */
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 30px; /* font size is 30px */
+	font-style: italic; /* font style is in italics */
+	font-weight: 800; /* font weight is heavier/bolder than regular */
+	margin-top: 50px; /* margin at top of the element is 50px */
+	margin-bottom: 50px; /* margin at bottom of the element is 50px */
+	margin-left: 100px; /* margin at the left side of the element is 100px */
 }
 	
 h3 {	
 	color: #6495ED;
-	font-family: Lucida Bright;
-	font-size: 25px;
-	font-style: italic;
-	font-weight: 800;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 100px;
-}
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 25px; /* font size is 25px */
+	font-style: italic; /* font style is in italics */
+	font-weight: 800; /* font weight is heavier/bolder than regular */
+	margin-top: 50px; /* margin at top of the element is 50px */
+	margin-bottom: 50px; /* margin at bottom of the element is 50px */
+	margin-left: 100px; /* margin at the left side of the element is 100px */
+} 
 
 p {
-	font-family: Lucida Bright;
-	font-size: 20px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 100px;
-	margin-right: 100px;
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 20px; /* font size is 20px */
+	margin-top: 50px; /* margin at top of the element is 50px */
+	margin-bottom: 50px; /* margin at bottom of the element is 50px */
+	margin-left: 100px; /* margin at the left side of the element is 100px */
+	margin-right: 100px; /* margin at the right side of the element is 100px */
 }
 
 p1 {
-	font-family: Lucida Bright;
-	font-size: 20px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 100px;
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 20px; /* font size is 20px */
+	margin-top: 50px; /* margin at top of the element is 50px */
+	margin-bottom: 50px; /* margin at bottom of the element is 50px */
+	margin-left: 100px; /* margin at the left side of the element is 100px */
 }
 
 p11 {
-	font-family: Lucida Bright;
-	font-size: 20px;
-	padding-top: 50px;
-	padding-right: 50px;
-	padding-bottom: 50px;
-	padding-left: 100px;
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 20px; /* font size is 20px */
+	margin-top: 50px; /* margin at top of the element is 50px */
+	margin-right: 50px; /* margin at the left side of the element is 50px */
+	margin-bottom: 50px; /* margin at bottom of the element is 50px */
+	margin-left: 100px; /* margin at the left side of the element is 100px */
 }
 
 p12 {
-	font-family: Lucida Bright;
-	font-size: 20px;
-	margin-top: 200px;
-	margin-bottom: 200px;
-	margin-block-start: 15px;
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 20px; /* font size is 20px */
+	margin-top: 200px; /* margin at top of the element is 200px */
+	margin-bottom: 200px; /* margin at bottom of the element is 200px */
 }
 
 p13 {
-	font-family: Lucida Bright;
-	font-size: 20px;
-	margin-top: 200px;
-	margin-bottom: 200px;
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 20px; /* font size is 20px */
+	margin-top: 200px; /* margin at top of the element is 200px */
+	margin-bottom: 200px; /* margin at bottom of the element is 200px */
 }
 
-ul.bar {
-	list-style-type: none;
-	margin-left: 25px;
-	margin-top: 20px;
-	margin-bottom: 40px;
-	padding: 0;
-	background-color: #DDA0DD;
+ul.bar {    
+	list-style-type: none; /* no bullets in the list */
+	margin-left: 25px; /* margin at the left side of the element is 25px */
+	margin-top: 20px; /* margin at top of the element is 20px */
+	margin-bottom: 40px; /* margin at bottom of the element is 40px */
+	padding: 0; /* no padding around the navigation bar */
+	background-color: #DDA0DD;  /* background color of the navigation bar is Plum*/
 }
 	
 .bar li {
-	display: inline;
-	color: #F0F8FF;
-	font-family: Lucida Bright;
-	font-size: 20px;
-	padding: 15px 25px;
-	margin-left: 50px;
+	display: inline; /* navigation bar is arranged horizontally */
+	color: #F0F8FF;  /* text color is AliceBlue */
+	font-family: Lucida Bright; /* font used is Lucida Bright */
+	font-size: 20px; /* font size is 20px */
+	padding: 15px 25px; /* padding around the lines in the navigation bar is 15px at the sides and 25px at the top and bottom */
+	margin-left: 50px; /* margin at the left side of the element is 50px */
 }
 	
 ul.res {
-	list-style-type:square;
+	list-style-type:square; /* The list bullets in the resume are square */
 }
 	
-.animalpictures {
-	padding-top: 50px;
-	padding-bottom: 50px;
-	padding-left: 150px;
+.animalpictures {   /* class of the photos */
+	padding-top: 50px; /* padding at top of the pictures is 50px */
+	padding-bottom: 50px; /* padding at bottom of the pictures is 50px */
+	padding-left: 150px;  /* padding at the left side of the pictures is 100px */
 }
 	
 a:link {
-	color: #483D8B;
+	color: #483D8B; /* unvisited link color is DarkSlateBlue */
 }
 a:visited {
-	color: #483D8B;
+	color: #483D8B; /* unvisited link color is DarkSlateBlue*/
 }
 a:hover {
-	color: #8B0000;
+	color: #8B0000; /* link color changes to DarkRed when hovered over */
 }
 	
+
