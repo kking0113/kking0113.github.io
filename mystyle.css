@@ -76,7 +76,7 @@ p13 {
 	margin-bottom: 200px; /* margin at bottom of the element is 200px */
 }
 
-ul.bar {    
+ul.bar {    /* Resource used for styling multiple different lists  https://stackoverflow.com/questions/57897834/how-do-you-style-two-unordered-list-on-the-same-page-in-css */
 	list-style-type: none; /* no bullets in the list */
 	margin-left: 25px; /* margin at the left side of the element is 25px */
 	margin-top: 20px; /* margin at top of the element is 20px */
